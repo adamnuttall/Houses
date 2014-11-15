@@ -96,6 +96,7 @@
     <Compile Include="Controllers\HomeControllerTest.cs" />
     <Compile Include="BsonDocumentTests.cs" />
     <Compile Include="PocoTests.cs" />
+    <Compile Include="Rentals\RentalTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
